@@ -56,6 +56,6 @@ Simple widget test
 ## Optimisations
 
 - Only load images once and keep common/global. Don't load once per widget!
-- Font memory leaks...  keep eye on them.
+- Font memory leaks...  keep an eye on them.
 
 
